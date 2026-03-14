@@ -34,4 +34,4 @@ Hands-on exploration of neural network concepts implemented in Python.
 
 ## Contact
 
-[joaopmmoura26@gmail.com](mailto:joaopmmoura26@gmail.com)
+[joaopmmoura26@gmail.com](mailto:joaopmmoura26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/joão-pedro-machado-moura-0019432a3/)
